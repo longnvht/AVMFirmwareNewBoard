@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Code/Arduino"
+		},
+		{
+			"name": "VendingMachineNewFinal",
+			"path": "../../VendingMachineNewFinal"
+		},
+		{
+			"name": "74hc165",
+			"path": "../../../../Code/Arduino/74hc165"
+		},
+		{
+			"name": "TestBoardVending",
+			"path": "../../TestBoardVending"
+		},
+		{
+			"name": "231109-135129-uno",
+			"path": "../../231109-135129-uno"
+		},
+		{
+			"name": "231109-140042-uno",
+			"path": "../../231109-140042-uno"
+		},
+		{
+			"name": "231109-152621-uno",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
